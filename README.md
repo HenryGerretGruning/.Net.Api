@@ -1,2 +1,2 @@
-# .Net.Api
-Anette Aguriauja, Henry-Gerret Grüning NET PROJECT
+# .NET API
+Anette Aguriauja ja Henry-Gerret Grüning .NET PROJECT
